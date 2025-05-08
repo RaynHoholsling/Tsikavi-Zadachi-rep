@@ -1,0 +1,4 @@
+X  X XX
+A   X B
+XX    X
+X   X X
