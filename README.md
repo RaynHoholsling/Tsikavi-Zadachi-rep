@@ -1,1 +1,8 @@
 # Tsikavi-Zadachi-rep
+1) [Знайти всi трiйки цілих чисел a, b, c, що не перевищують n i задовольняють рівняння a2 + b2 = c2](https://github.com/RaynHoholsling/Tsikavi-Zadachi-rep/blob/main/ex1/ex1.cpp)
+2) [Розкласти число на добуток простих множників. Відповідь подати у вигляді переліку знайдених множників, наприклад: 250 = 2, 5, 5, 5.](https://github.com/RaynHoholsling/Tsikavi-Zadachi-rep/blob/main/ex2/ex2.cpp)
+3) [Решетом Ератосфена називається процедура, при якiй спочатку записують послiдовнi числа від 2 до n. Залишивши число 2, викреслюють кожне друге. Переходять до наступного не викреслення числа. Це 3. Його залишають, а викреслюють кожне третє. Дiють так до тих пiр, поки не доберуться до кінця послiдовностi. Побудуйте решето для першої тисячі чисел.](https://github.com/RaynHoholsling/Tsikavi-Zadachi-rep/blob/main/ex3/ex3.cpp)
+4) [Паліндромами називають числа, які однаково читаються як у прямому, так i у зворотному порядку, наприклад, 4884. Знайти всі поліндроми першої сотні, якi при піднесенні до квадрата теж дають паліндром.](https://github.com/RaynHoholsling/Tsikavi-Zadachi-rep/blob/main/ex4/ex4.cpp)
+5) [Записати число n ≤ 1000 словами](https://github.com/RaynHoholsling/Tsikavi-Zadachi-rep/blob/main/ex5/ex5.cpp)
+6) [Між n та 2n знайти всі пари простих чисел, різниця яких дорівнює 2](https://github.com/RaynHoholsling/Tsikavi-Zadachi-rep/blob/main/ex6/ex6.cpp)
+7) [Трикутником Паскаля називають числову конструкцію, у якiй першийстовпчик мiстить тiльки одиницi, а всi iншi елементи дорівнюють сумі тихдвох, що стоять у попередньому рядку над елементом i зліва вiд нього. Побудувати перші n рядків трикутника Паскаля.](https://github.com/RaynHoholsling/Tsikavi-Zadachi-rep/blob/main/ex7/ex7.cpp)
